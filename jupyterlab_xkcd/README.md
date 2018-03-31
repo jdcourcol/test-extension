@@ -10,7 +10,7 @@ A JupyterLab extension.
 ## Installation
 
 ```bash
-jupyter labextension install jupyterlab_xkcd
+jupyter labextension install @jdcourcol/jupyterlab_xkcd
 ```
 
 ## Development
