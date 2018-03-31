@@ -6,13 +6,13 @@ import '../style/index.css';
 
 
 /**
- * Initialization data for the jupyterlab_myextension extension.
+ * Initialization data for the jupyterlab_xkcd extension.
  */
 const extension: JupyterLabPlugin<void> = {
-  id: 'jupyterlab_myextension',
+  id: 'jupyterlab_xkcd',
   autoStart: true,
   activate: (app: JupyterLab) => {
-    console.log('JupyterLab extension jupyterlab_myextension is activated!');
+    console.log('JupyterLab extension jupyterlab_xkcd is activated!');
   }
 };
 

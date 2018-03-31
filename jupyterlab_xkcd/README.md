@@ -1,4 +1,4 @@
-# jupyterlab_myextension
+# jupyterlab_xkcd
 
 A JupyterLab extension.
 
@@ -10,7 +10,7 @@ A JupyterLab extension.
 ## Installation
 
 ```bash
-jupyter labextension install jupyterlab_myextension
+jupyter labextension install jupyterlab_xkcd
 ```
 
 ## Development

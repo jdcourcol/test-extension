@@ -1,5 +1,5 @@
 {
-  "name": "jupyterlab_myextension",
+  "name": "jupyterlab_xkcd",
   "version": "0.1.0",
   "description": "A JupyterLab extension.",
   "keywords": [
